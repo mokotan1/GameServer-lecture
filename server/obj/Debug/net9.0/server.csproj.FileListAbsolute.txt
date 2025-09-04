@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\bin\Debug\net9.0\server.exe
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\bin\Debug\net9.0\server.deps.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\bin\Debug\net9.0\server.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\bin\Debug\net9.0\server.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\server\obj\Debug\net9.0\ref\server.dll
