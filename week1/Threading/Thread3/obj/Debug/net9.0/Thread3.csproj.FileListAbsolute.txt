@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.sourcelink.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\bin\Debug\net9.0\Thread3.exe
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\bin\Debug\net9.0\Thread3.deps.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\bin\Debug\net9.0\Thread3.runtimeconfig.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\bin\Debug\net9.0\Thread3.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\bin\Debug\net9.0\Thread3.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\refint\Thread3.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\Thread3.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\week1\Threading\Thread3\obj\Debug\net9.0\ref\Thread3.dll
