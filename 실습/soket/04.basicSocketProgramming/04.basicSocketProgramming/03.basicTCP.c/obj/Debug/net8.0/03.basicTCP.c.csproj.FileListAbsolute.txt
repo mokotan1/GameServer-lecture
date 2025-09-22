@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/bin/Debug/net8.0/03.basicTCP.c
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/bin/Debug/net8.0/03.basicTCP.c.deps.json
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/bin/Debug/net8.0/03.basicTCP.c.runtimeconfig.json
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/bin/Debug/net8.0/03.basicTCP.c.dll
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/bin/Debug/net8.0/03.basicTCP.c.pdb
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.dll
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/refint/03.basicTCP.c.dll
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.pdb
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/03.basicTCP.c.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/04/03.basicTCP.c/obj/Debug/net8.0/ref/03.basicTCP.c.dll

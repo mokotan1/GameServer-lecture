@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/thread2/bin/Debug/net8.0/thread2
+/home/joh/workspace.cs/gsp/thread2/bin/Debug/net8.0/thread2.deps.json
+/home/joh/workspace.cs/gsp/thread2/bin/Debug/net8.0/thread2.runtimeconfig.json
+/home/joh/workspace.cs/gsp/thread2/bin/Debug/net8.0/thread2.dll
+/home/joh/workspace.cs/gsp/thread2/bin/Debug/net8.0/thread2.pdb
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.dll
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/refint/thread2.dll
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.pdb
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/thread2.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/thread2/obj/Debug/net8.0/ref/thread2.dll

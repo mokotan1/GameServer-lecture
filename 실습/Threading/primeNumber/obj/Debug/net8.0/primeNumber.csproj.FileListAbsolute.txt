@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/primeNumber/bin/Debug/net8.0/primeNumber
+/home/joh/workspace.cs/gsp/primeNumber/bin/Debug/net8.0/primeNumber.deps.json
+/home/joh/workspace.cs/gsp/primeNumber/bin/Debug/net8.0/primeNumber.runtimeconfig.json
+/home/joh/workspace.cs/gsp/primeNumber/bin/Debug/net8.0/primeNumber.dll
+/home/joh/workspace.cs/gsp/primeNumber/bin/Debug/net8.0/primeNumber.pdb
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.dll
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/refint/primeNumber.dll
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.pdb
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/primeNumber.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/primeNumber/obj/Debug/net8.0/ref/primeNumber.dll

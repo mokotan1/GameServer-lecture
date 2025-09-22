@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/thread10/bin/Debug/net8.0/thread10
+/home/joh/workspace.cs/gsp/thread10/bin/Debug/net8.0/thread10.deps.json
+/home/joh/workspace.cs/gsp/thread10/bin/Debug/net8.0/thread10.runtimeconfig.json
+/home/joh/workspace.cs/gsp/thread10/bin/Debug/net8.0/thread10.dll
+/home/joh/workspace.cs/gsp/thread10/bin/Debug/net8.0/thread10.pdb
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.dll
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/refint/thread10.dll
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.pdb
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/thread10.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/thread10/obj/Debug/net8.0/ref/thread10.dll

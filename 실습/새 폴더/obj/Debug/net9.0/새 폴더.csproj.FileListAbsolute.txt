@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\bin\Debug\net9.0\새 폴더.exe
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\bin\Debug\net9.0\새 폴더.deps.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\bin\Debug\net9.0\새 폴더.runtimeconfig.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\bin\Debug\net9.0\새 폴더.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\bin\Debug\net9.0\새 폴더.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.sourcelink.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\refint\새 폴더.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\새 폴더.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\새 폴더\obj\Debug\net9.0\ref\새 폴더.dll

@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/04/02.basicUDP/bin/Debug/net8.0/02.basicUDP
+/home/joh/workspace.cs/gsp/04/02.basicUDP/bin/Debug/net8.0/02.basicUDP.deps.json
+/home/joh/workspace.cs/gsp/04/02.basicUDP/bin/Debug/net8.0/02.basicUDP.runtimeconfig.json
+/home/joh/workspace.cs/gsp/04/02.basicUDP/bin/Debug/net8.0/02.basicUDP.dll
+/home/joh/workspace.cs/gsp/04/02.basicUDP/bin/Debug/net8.0/02.basicUDP.pdb
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.dll
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/refint/02.basicUDP.dll
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.pdb
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/02.basicUDP.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/04/02.basicUDP/obj/Debug/net8.0/ref/02.basicUDP.dll

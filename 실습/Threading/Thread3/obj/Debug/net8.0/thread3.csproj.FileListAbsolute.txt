@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/thread3/bin/Debug/net8.0/thread3
+/home/joh/workspace.cs/gsp/thread3/bin/Debug/net8.0/thread3.deps.json
+/home/joh/workspace.cs/gsp/thread3/bin/Debug/net8.0/thread3.runtimeconfig.json
+/home/joh/workspace.cs/gsp/thread3/bin/Debug/net8.0/thread3.dll
+/home/joh/workspace.cs/gsp/thread3/bin/Debug/net8.0/thread3.pdb
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.dll
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/refint/thread3.dll
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.pdb
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/thread3.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/thread3/obj/Debug/net8.0/ref/thread3.dll

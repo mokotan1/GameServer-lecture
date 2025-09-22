@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/bin/Debug/net8.0/06.basicTCP2.s
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/bin/Debug/net8.0/06.basicTCP2.s.deps.json
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/bin/Debug/net8.0/06.basicTCP2.s.runtimeconfig.json
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/bin/Debug/net8.0/06.basicTCP2.s.dll
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/bin/Debug/net8.0/06.basicTCP2.s.pdb
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.dll
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/refint/06.basicTCP2.s.dll
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.pdb
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/06.basicTCP2.s.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/04.basicSocketProgramming/06.basicTCP2.s/obj/Debug/net8.0/ref/06.basicTCP2.s.dll

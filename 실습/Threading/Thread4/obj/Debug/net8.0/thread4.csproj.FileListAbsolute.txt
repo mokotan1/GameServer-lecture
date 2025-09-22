@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/thread4/bin/Debug/net8.0/thread4
+/home/joh/workspace.cs/gsp/thread4/bin/Debug/net8.0/thread4.deps.json
+/home/joh/workspace.cs/gsp/thread4/bin/Debug/net8.0/thread4.runtimeconfig.json
+/home/joh/workspace.cs/gsp/thread4/bin/Debug/net8.0/thread4.dll
+/home/joh/workspace.cs/gsp/thread4/bin/Debug/net8.0/thread4.pdb
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.dll
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/refint/thread4.dll
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.pdb
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/thread4.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/thread4/obj/Debug/net8.0/ref/thread4.dll

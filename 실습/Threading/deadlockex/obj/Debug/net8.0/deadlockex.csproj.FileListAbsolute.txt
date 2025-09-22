@@ -1,0 +1,14 @@
+/home/joh/workspace.cs/gsp/deadlockex/bin/Debug/net8.0/deadlockex
+/home/joh/workspace.cs/gsp/deadlockex/bin/Debug/net8.0/deadlockex.deps.json
+/home/joh/workspace.cs/gsp/deadlockex/bin/Debug/net8.0/deadlockex.runtimeconfig.json
+/home/joh/workspace.cs/gsp/deadlockex/bin/Debug/net8.0/deadlockex.dll
+/home/joh/workspace.cs/gsp/deadlockex/bin/Debug/net8.0/deadlockex.pdb
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.GeneratedMSBuildEditorConfig.editorconfig
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.AssemblyInfoInputs.cache
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.AssemblyInfo.cs
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.csproj.CoreCompileInputs.cache
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.dll
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/refint/deadlockex.dll
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.pdb
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/deadlockex.genruntimeconfig.cache
+/home/joh/workspace.cs/gsp/deadlockex/obj/Debug/net8.0/ref/deadlockex.dll
