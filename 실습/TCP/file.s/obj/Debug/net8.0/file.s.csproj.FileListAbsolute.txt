@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\bin\Debug\net8.0\file.s.exe
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\bin\Debug\net8.0\file.s.deps.json
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\bin\Debug\net8.0\file.s.runtimeconfig.json
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\bin\Debug\net8.0\file.s.dll
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\bin\Debug\net8.0\file.s.pdb
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.dll
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\refint\file.s.dll
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.pdb
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\file.s.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\_CLS.gameServerProgramming.2025f\demo.tcp\file.s\obj\Debug\net8.0\ref\file.s.dll
