@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.sourcelink.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\bin\Debug\net9.0\cl.exe
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\bin\Debug\net9.0\cl.deps.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\bin\Debug\net9.0\cl.runtimeconfig.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\bin\Debug\net9.0\cl.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\bin\Debug\net9.0\cl.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\refint\cl.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\cl.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\FartGame\cl\obj\Debug\net9.0\ref\cl.dll
