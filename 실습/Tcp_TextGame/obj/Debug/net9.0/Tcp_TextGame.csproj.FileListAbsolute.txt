@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\bin\Debug\net9.0\Tcp_TextGame.exe
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\bin\Debug\net9.0\Tcp_TextGame.deps.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\bin\Debug\net9.0\Tcp_TextGame.runtimeconfig.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\bin\Debug\net9.0\Tcp_TextGame.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\bin\Debug\net9.0\Tcp_TextGame.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.sourcelink.json
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\refint\Tcp_TextGame.dll
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.pdb
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\Tcp_TextGame.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\GameServer-lecture\실습\Tcp_TextGame\obj\Debug\net9.0\ref\Tcp_TextGame.dll
